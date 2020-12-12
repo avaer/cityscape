@@ -1,0 +1,7 @@
+{
+  "name": "cityscape",
+  "description": "cityscape XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "cityscape.glb",
+  "physics_url": "cityscape.bin"
+}
